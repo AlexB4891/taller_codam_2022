@@ -4,3 +4,9 @@
   description: Mapa del Ecuador por provincia
   rows: 6179
   cols: 7
+- path: die_diccionario_provincias
+  name: die_diccionario_provincias
+  type: table
+  description: Diccionario provincias
+  rows: 25
+  cols: 2

@@ -1,0 +1,13 @@
+path:
+- data.csv
+- data.rds
+type: table
+description: Diccionario provincias
+rows: 25
+cols: 2
+columns:
+  codigo_provincia: character
+  provincia: character
+filenames:
+  data.csv: data.csv
+  data.rds: data.rds
