@@ -22,3 +22,9 @@
   description: Plazas de trabajo totales
   rows: 18
   cols: 3
+- path: die_plazas_totales
+  name: die_plazas_totales
+  type: table
+  description: Valores provinciales de plazas
+  rows: 433
+  cols: 4

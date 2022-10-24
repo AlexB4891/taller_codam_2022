@@ -1,0 +1,15 @@
+path:
+- data.csv
+- data.rds
+type: table
+description: Valores provinciales de plazas
+rows: 433
+cols: 4
+columns:
+  anio: numeric
+  unidad_legal_tipo: character
+  codigo_provincia: character
+  plazas_totales: numeric
+filenames:
+  data.csv: data.csv
+  data.rds: data.rds
