@@ -2,6 +2,7 @@ path:
 - data.csv
 - data.rds
 type: table
+description: Mapa del Ecuador por provincia
 rows: 6179
 cols: 7
 columns:

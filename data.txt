@@ -1,6 +1,6 @@
 - path: shape_provincia
   name: shape_provincia
   type: table
-  description: ~
+  description: Mapa del Ecuador por provincia
   rows: 6179
   cols: 7
