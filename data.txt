@@ -10,3 +10,9 @@
   description: Diccionario provincias
   rows: 25
   cols: 2
+- path: die_exportaciones_netas
+  name: die_exportaciones_netas
+  type: table
+  description: Exportaciones netas por tipo
+  rows: 18
+  cols: 3

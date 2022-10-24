@@ -1,0 +1,14 @@
+path:
+- data.csv
+- data.rds
+type: table
+description: Exportaciones netas por tipo
+rows: 18
+cols: 3
+columns:
+  anio: numeric
+  unidad_legal_tipo: character
+  exportaciones_netas: numeric
+filenames:
+  data.csv: data.csv
+  data.rds: data.rds
