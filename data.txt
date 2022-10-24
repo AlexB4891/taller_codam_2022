@@ -1,7 +1,7 @@
 - path: shape_provincia
   name: shape_provincia
   type: table
-  description: Mapa del Ecuador por provincia
+  description: Mapa ahora en tibble
   rows: 6179
   cols: 7
 - path: die_diccionario_provincias
