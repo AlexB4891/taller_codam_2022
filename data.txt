@@ -16,3 +16,9 @@
   description: Exportaciones netas por tipo
   rows: 18
   cols: 3
+- path: die_plazas_trabajo
+  name: die_plazas_trabajo
+  type: table
+  description: Plazas de trabajo totales
+  rows: 18
+  cols: 3
