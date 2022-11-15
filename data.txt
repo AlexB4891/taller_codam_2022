@@ -32,5 +32,5 @@
   name: tabla_impuesto_renta
   type: table
   description: Ejecucion
-  rows: 2
+  rows: 3
   cols: 8

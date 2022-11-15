@@ -3,7 +3,7 @@ path:
 - data.rds
 type: table
 description: Ejecucion
-rows: 2
+rows: 3
 cols: 8
 columns:
   vivienda: numeric
