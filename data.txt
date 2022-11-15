@@ -31,6 +31,6 @@
 - path: tabla_impuesto_renta
   name: tabla_impuesto_renta
   type: table
-  description: Init
-  rows: 1
+  description: Ejecucion
+  rows: 2
   cols: 8
