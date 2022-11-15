@@ -28,3 +28,9 @@
   description: Valores provinciales de plazas
   rows: 433
   cols: 4
+- path: tabla_impuesto_renta
+  name: tabla_impuesto_renta
+  type: table
+  description: Init
+  rows: 1
+  cols: 8
